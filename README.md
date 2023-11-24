@@ -2,7 +2,7 @@
 
 ## Description
 
-Yeti Type is a typing speed test application inspired by MonkeyType. It's developed as the final project for the backend development course. The project utilizes Next.js, TypeScript, Spring Boot, and MongoDB to provide an efficient and user-friendly typing experience.
+Yeti Type is a typing speed test application inspired by MonkeyType. It was developed as my final project for the Backend Development course. The project utilizes Next.js, TypeScript, Spring Boot, and MongoDB to provide an efficient and user-friendly typing experience.
 
 <div style="display: flex; flex-direction: row;" >
   <img src="https://www.svgrepo.com/show/369457/nextjs.svg" alt="nextJS logo" width="50" />
