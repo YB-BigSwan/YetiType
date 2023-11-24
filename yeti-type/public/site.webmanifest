@@ -1,0 +1,19 @@
+{
+  "name": "YetiType",
+  "short_name": "yeti-type",
+  "icons": [
+    {
+      "src": "/yetilogo-50.svg",
+      "sizes": "50x50",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/yetilogo-108.svg",
+      "sizes": "108x108",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

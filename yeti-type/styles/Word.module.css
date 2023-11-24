@@ -1,0 +1,18 @@
+.word {
+  display: flex;
+  margin: 0.3rem 0.2rem;
+  border-bottom: transparent solid 0.1rem;
+}
+
+.active {
+  position: relative;
+}
+
+.done {
+  opacity: 0.5;
+}
+
+.incorrect {
+  opacity: 0.5;
+  border-bottom: var(--negative-color) solid 0.1rem;
+}

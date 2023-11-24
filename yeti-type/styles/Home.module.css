@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0 1rem;
+  width: 100vw;
+  min-width: 810px;
+  height: 100vh;
+}
+
+.test {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  margin-bottom: 3rem;
+}
+.test:focus {
+  outline: none;
+}
+
+.word {
+  padding: 0 1rem;
+}
+
+.input {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}

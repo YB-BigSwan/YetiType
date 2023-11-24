@@ -1,0 +1,20 @@
+.letter {
+  font-size: 0.9rem;
+  padding-left: 0.05rem;
+}
+
+.waiting {
+  color: var(--passive-color);
+}
+
+.active {
+  color: var(--active-color);
+}
+
+.correct {
+  color: var(--positive-color);
+}
+
+.incorrect {
+  color: var(--negative-color);
+}

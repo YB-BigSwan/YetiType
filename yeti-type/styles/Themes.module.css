@@ -1,0 +1,13 @@
+.eva {
+  --background-color: transparent official;
+  --active-color: #b48ead;
+  --passive-color: #494949;
+  --positive-color: #879d74;
+  --negative-color: #d08770;
+  --strong-color: #eff9fe;
+}
+
+.mainBody {
+  background-color: var(--background-color);
+  color: var(--active-color);
+}
