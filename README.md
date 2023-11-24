@@ -1,6 +1,6 @@
 # YetiType
 
-![Next.js Logo](https://www.svgrepo.com/show/354112/nextjs.svg) ![TypeScript Logo](https://placekitten.com/100/100) ![Spring Boot Logo](https://placekitten.com/100/100) ![MongoDB Logo](https://placekitten.com/100/100)
+![Next.js Logo](https://www.svgrepo.com/show/369457/nextjs.svg =50x50) ![TypeScript Logo](https://placekitten.com/100/100) ![Spring Boot Logo](https://placekitten.com/100/100) ![MongoDB Logo](https://placekitten.com/100/100)
 
 ## Description
 
