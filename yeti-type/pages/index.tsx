@@ -163,7 +163,7 @@ const Home: NextPage = () => {
         <title>YetiType</title>
         <meta
           name="description"
-          content="A fork of TypeToast. Modified and used as the fronted of my backend programing final project"
+          content="A fork of TypeToast which is a fork of MonkeyType. Modified and used as the frontend of my backend programing final project"
         />
         <link
           rel="yetilogo-108"
